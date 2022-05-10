@@ -1,0 +1,45 @@
+﻿  LinkedList.cpp
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(4,1): error C2955: "LinkedList": для использования класс шаблон требуется список аргументов шаблон
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.h(5): message : см. объявление "LinkedList"
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(5,1): error C2244: LinkedList::LinkedList: не удается сопоставить определение функции существующему объявлению
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(4): message : см. объявление "LinkedList::LinkedList"
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(5,1): message : определение
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(5,1): message : 'LinkedList::LinkedList(void)'
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(5,1): message : существующие объявления
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(5,1): message : 'LinkedList<type>::LinkedList(void)'
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(9,1): error C2244: LinkedList::~LinkedList: не удается сопоставить определение функции существующему объявлению
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(8): message : см. объявление "LinkedList::~LinkedList"
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(9,1): message : определение
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(9,1): message : 'LinkedList::~LinkedList(void)'
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(9,1): message : существующие объявления
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(9,1): message : 'LinkedList<type>::~LinkedList(void)'
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(13,1): error C2244: LinkedList::size: не удается сопоставить определение функции существующему объявлению
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(12): message : см. объявление "LinkedList::size"
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(13,1): message : определение
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(13,1): message : 'unsigned int LinkedList::size(void)'
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(13,1): message : существующие объявления
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\LinkedList.cpp(13,1): message : 'unsigned int LinkedList<type>::size(void)'
+  Source.cpp
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(35,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(48,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(53,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(66,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(79,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(84,25): warning C4018: <: несоответствие типов со знаком и без знака
+  String.cpp
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(35,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(48,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(53,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(66,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(79,14): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\MyString.h(84,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(62,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(82,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(146,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(161,12): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(166,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(183,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(197,12): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\Singly_linked_list\Singly_linked_list\String.cpp(212,40): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...

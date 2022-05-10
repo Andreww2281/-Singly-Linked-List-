@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\IT\Step\Class_Work\С++\Singly_linked_list\-Singly-Linked-List\LinkedList.h(400): warning C4715: LinkedList<int>::operator[]: значение возвращается не при всех путях выполнения
+  Singly_linked_list.vcxproj -> E:\IT\Step\Class_Work\С++\Singly_linked_list\-Singly-Linked-List\x64\Debug\Singly_linked_list.exe
